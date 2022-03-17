@@ -1,0 +1,238 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  
+}
+
+.all{
+    background-color: #d9d9d9;
+}
+/* debut partie header */
+body {
+   margin-top:  100px;
+}
+.band1 {
+    display: flex;
+    background-color: #128c7e;
+    flex-wrap: wrap;
+    padding-top: 0.3em;
+    padding-bottom: 0.2em;
+    position: fixed;
+    top:0;
+    width: 100%;
+
+
+}
+.imglogo1 {
+    margin-left: 13em;
+    width: auto;
+    height: 2em;
+
+}
+#imglogo2 {
+    height: auto;
+    width: 2em;
+    margin-left: 0.7em;
+}
+.band1text {
+    margin-left: 2.5em;
+   margin-top: 0.9em;
+   color: #ffff;
+   font-size: 13px;
+   font-weight: bold;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+/*fin de la partie header */
+
+
+
+/*debut la partie body */
+
+/*body bloc1 */
+.bodybloc1 {
+    display: flex;
+    margin-top: 2em;
+}
+.blocimgphone1 {
+    height: auto;
+    width: 13em;
+    margin-left: 5em;
+}
+.bodybloc1sec1 {
+    margin-left: 20em;
+   
+}
+.start {
+    font-size: 1.5em;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 1em;
+
+}
+.bs1d2 {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 2em;
+    font-size: 1em;
+}
+.bs1d3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.8em;
+    margin-bottom: 1em;
+
+}
+#bs1d3a {
+    margin-top: 2em;
+}
+.bs1d4 li {
+   list-style: none;
+  margin-left: 3.5em;
+  color: #128c7e;
+  display: flex;
+  margin-top: 0.7em;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.iconbody {
+    height: auto;
+    width: 1.5em;
+    margin-right: 1.5em;
+  
+}
+
+
+/*body bloc 2 */
+.bs2big {
+    display: flex;
+    margin-top: 3em;
+    margin-bottom: 3em;
+    margin-left: 8em;
+    margin-right: 6em;
+}
+.bs2s1 {
+    background-color: gainsboro;
+    margin-right: 1em;
+    padding-top: 2.3em;
+    padding-left: 1em;
+    padding-right: 1em;
+
+
+}
+.bs2s1titre {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.3em;
+    margin-bottom: 1.3em;
+}
+.bs2s2 {
+    background-color: #d9d9d9;
+    margin-left: 1em;
+    padding-left: 1em;
+    padding-right: 1em;
+
+}
+.bs2simg {
+    height: auto;
+    width: 20em;
+    margin-top: 2em;
+}
+.bs2sitext {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.9em;
+}
+.bs2s1text2 {
+    font-family: 1em;
+    margin-top: 0.8em;
+    margin-bottom: 0.8em;
+}
+
+
+.avandpied {
+    border: solid #128c7e;
+    margin-left:  40%;
+    margin-right: 40%;
+    padding-top: 0.8em;
+    padding-bottom: 0.8em;
+    border-radius: 40px;
+    font-size: 0.7em;
+    margin-bottom: 5em;
+    
+
+}
+/*block 2 du body */
+.b2s2logotitre {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.6em;
+    color: #273443;
+}
+
+.b2s2titre {
+    font-size: 1em;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 1em;
+    margin-bottom: 1.5em;
+}
+.b2s2text {
+    font-size: 1em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/*fin de la partie header */
+/*fin de la partie header */
+/*fin de la partie header */
+
+
+/*fin la partie body */
+
+
+/*debut la partie footer */
+.band2 {
+    display: flex;
+    background-color: #273443;
+ 
+
+}
+.footertitres {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    font-weight: bold;
+    color: white;
+    margin-top: 2em;
+    margin-bottom: 2em;
+
+}
+.footerlist {
+    list-style: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    margin-top: 0.5em;
+
+}
+.footerdiv {
+    margin-left: 4em;
+    margin-right: 4em;
+    margin-bottom: 4em;
+
+}
+#footermargegauche{
+   margin-left: 11em;
+}
+.band3 {
+    display: flex;
+    background-color: black;
+    color: #ffff;
+  
+}
+.ooo {
+    margin-right: 20em;
+    margin-top: 0.8em;
+    margin-bottom: 0.8em;
+    margin-left: 4em;
+    font-size: 1.5em;
+}
+.ooo1 {
+    margin-top: 0.8em;
+    margin-bottom: 0.8em;
+    margin-left: 4em;
+    font-size: 1.5em;
+ 
+}
+/*fin la partie footer */
